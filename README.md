@@ -123,11 +123,6 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
-
-*(Add your project screenshots here)*
-
----
 
 ## 🔥 Future Improvements
 

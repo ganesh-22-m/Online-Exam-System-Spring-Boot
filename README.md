@@ -1,21 +1,15 @@
-# 🧑‍🎓 Online Exam System (Spring Boot)
+#  Online Exam System (Spring Boot)
 
 An Online Exam System developed using Spring Boot that allows administrators to create and manage exams while students can attempt tests and view results. This project demonstrates full-stack backend development, REST APIs, and database integration.
 
----
+##  Features
 
-## 🚀 Features
-
-* 👨‍🏫 Admin can create, update, and delete exams
-* 📝 Add and manage questions
-* 👨‍🎓 Student can attempt exams
-* ⏱️ Timer-based exam system *(if implemented)*
-* 📊 Automatic result calculation
-* 🔐 Basic authentication *(if implemented)*
-
----
-
-## 🛠️ Tech Stack
+*  Admin can create, update, and delete exams
+*  Add and manage questions
+*  Student can attempt exams
+*  Timer-based exam system *(if implemented)*
+*  Automatic result calculation
+*  Basic authentication *(if implemented)*
 
 ### Backend
 
@@ -33,9 +27,7 @@ An Online Exam System developed using Spring Boot that allows administrators to 
 * Maven
 * Postman (for API testing)
 
----
-
-## 📂 Project Structure
+##  Project Structure
 
 ```id="str123"
 Online-Exam-System/
@@ -50,13 +42,11 @@ Online-Exam-System/
 │
 │── pom.xml
 │── README.md
-```
 
----
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash id="clone123"
 git clone https://github.com/ganesh-22-m/Online-Exam-System-Spring-Boot.git
@@ -65,7 +55,7 @@ cd Online-Exam-System-Spring-Boot
 
 ---
 
-### 2️⃣ Configure Database
+###  Configure Database
 
 Update `application.properties`:
 
@@ -79,7 +69,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ---
 
-### 3️⃣ Run the Application
+###  Run the Application
 
 * Open in IntelliJ / Eclipse
 * Run main Spring Boot class
@@ -92,7 +82,7 @@ http://localhost:8080
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint    | Description       |
 | ------ | ----------- | ----------------- |
@@ -105,7 +95,7 @@ http://localhost:8080
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 ### Exam Table
 
@@ -124,17 +114,17 @@ http://localhost:8080
 ---
 
 
-## 🔥 Future Improvements
+##  Future Improvements
 
-* 🔐 JWT Authentication (Login/Signup)
-* 📊 Dashboard with analytics
-* ⏱️ Auto-submit on timer
-* 📄 Result PDF generation
-* 🌐 Frontend integration (React / Angular)
+*  JWT Authentication (Login/Signup)
+*  Dashboard with analytics
+*  Auto-submit on timer
+*  Result PDF generation
+*  Frontend integration (React / Angular)
 
 ---
 
-## 💼 Resume Description
+##  Resume Description
 
 ```id="resume123"
 Developed a Spring Boot-based Online Exam System with RESTful APIs to manage exams and questions. 
@@ -143,7 +133,7 @@ Implemented backend logic for exam creation, student participation, and automati
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Ganesh Mahajan**
 
@@ -151,6 +141,6 @@ Implemented backend logic for exam creation, student participation, and automati
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, give it a ⭐ on GitHub!
